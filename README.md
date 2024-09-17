@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	
+	<meta charset="utf-8">
+	
+	<title>Assignment 1</title>
+	
+	<link rel="stylesheet" href="style.css">	
+	
+</head>
+
+
+<body>
+
+  <div id="container">
+
+<header>
+	<h1>My Written Response</h1>
+	<h2>By:Isabel Roman 9/10/2024</h2>
+</header>
+<main> 
+<p>I agree with Kate Wagner's essay, "404 Page Not Found", on how the internet has evolved into a less than savory place when compared to what it once was because of big brands like Facebook, however, I do not agree that the bad things about the contemporary internet outweigh the good stuff. My reason for this is that I still believe that it helps to expand and spread communication between people worldwide in ways that the old internet couldn't, which for me is what the internet should be all about.</p>
+
+<p>Firstly, I want to reiterate that I do agree with Kate Wagner's statement on how capitalistic websites have led to the destruction of other websites and the loss of what information those websites once held. Stated, "...when a website, especially one that invites mass participation, goes offline or executes a huge dump of its data and resources, it's as if a smallish Library of Alexandria has been burned to the ground." While some of that data may not have any real-world value it did have some to those that put the time and effort into creating it. She is right when she says that the big tech monopolies don't care about your user experience because they don't care about your human values. But that doesn't mean that all is lost when a website is shut down or that data is dumped for something new as there are always people to archive and write down the history of what once was. As Wagner stated, "Fortunately, Olia Lialina and others have managed to document one glimmering period of internet history: the Geocities era of the 1990s, with its haphazardly designed, amateur-generated sites." This shows me that there is always a community no matter how small for something you care about and you would have a much harder time finding this community if it wasn't for the expansion of the internet. The internet at the end of the day was meant to help people connect from far away distances and that is exactly what it still does despite the big capitalistic webs around now.</p>
+
+<p>Additionally, the majority of people nowadays are smart enough to see past those big brands and know what they're trying to do, which is to make a quick buck off of them. That's why the younger generation will avoid some websites that they see have taken a decline over the years such as Facebook. Wagner even states this herself, "On websites more densely populated by young people, such as Twitter, Tumblr, and Reddit, there are whole communities devoted to mocking the crudely made image macros fabricated and circulated by old people on Facebook..." This shows how younger generations haven't fully just given in and bought whatever these big brands are trying to sell. They know better and are mostly against this newer more greedy capitalist internet and some even actively try to fight against it. Here is an example of this stated by Wagner, "Put another way, these pages deliberately uglify Facebook, rendering a once sleek user interface deconstructed and amateurish, appending it with a Myspace-esque look, exposing aesthetically the control Facebook has lost both over its content and its brand image." To me, this shows that not everything on the internet has been downgraded from what it once was like how Wagner believes.</p>
+
+<p>Furthermore, I believe that when it comes to the vast internet there is still more good than bad despite the many bad things that are in your face when online. Most people can tell when something has changed and taken a turn for the worse either in quality or morally as that is what happened to Facebook for example, "Instead, it is roundly vilified for the role it played in the election of far-right idiots and parties to positions of power, its misuse of users' data through companies like Cambridge Analytica, its generally hapless promotion of fake news and hate speech, its whimsical annihilation of journalism-all for a quick thirty-nine billion or so in ad revenue." Wagner stated that Facebook had taken a clear downturn and now everyone can see what it has become and has made sure to steer clear of it. Only an older, more outdated generation uses it now for their far-right community. This will eventually lead to the end of Facebook in general I believe as it'll most likely end up being sold by its owner when they decide it's no longer making enough money. Wagner stated, "What is particularly fascinating is how the once-minimal, professional-class Facebook is now falling prey to the clutter and kitsch that careened Myspace into the black hole of uncoolness." This is just the fate of some websites on the internet sooner or later and I see that as a sort of balance in the world. Everything needs balance as so does the internet.</p>
+
+<p>In conclusion, I agree with Kate Wagner on how the internet has changed into a less savory place due to big brands and capitalism but that is just like everything else today. In my opinion, there is an equal amount of good alongside bad whenever you go online. The fact you can interact with others and find your communities anywhere in the world still makes the internet an incredible place.</p>
+ </main>
+
+<footer>
+	<p>&#169;Isabel Roman,all rights reserved,2024</p>
+	</footer>
+
+  </div><!-- close "container" -->
+  
+
+</body>
+	
+</html> 
