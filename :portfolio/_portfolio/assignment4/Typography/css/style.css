@@ -1,0 +1,57 @@
+/* Basic CSS resets -- leveling slight inconsistencies in browsers */
+html, body {
+	margin:0px;
+	padding:0px;
+	height:100%;
+}
+
+html {
+		/* Standard text-settings below */
+	font-size: 1em;
+    line-height: 1.4em;
+}
+
+
+
+
+body {
+	
+	
+}
+
+
+
+#container {
+	/*border: 1px solid black;*/
+	width:900px;
+	margin:auto;
+	position:relative;
+}
+
+h1{
+	position:fixed;
+	bottom:100px;
+	right:100px;
+	rotate: 90deg;
+}
+
+span.winnie {
+	color:red;
+	font-size:30em;
+	position:absolute;
+	top:500px;
+	left: -100px;
+	text-shadow: 90px 90px black, 120px 120px #916161;
+	rotate: 90deg;
+	
+}
+
+span.period{
+	font-size:120em;
+	color: #d99393;
+	position:absolute;
+	left:100px;
+	top:-120px;
+		opacity: 0.5;
+}
+
