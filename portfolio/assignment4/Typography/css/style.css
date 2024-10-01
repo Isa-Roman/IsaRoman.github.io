@@ -1,0 +1,80 @@
+/* Basic CSS resets -- leveling slight inconsistencies in browsers */
+html, body {
+	margin:0px;
+	padding:0px;
+	height:100%;
+}
+
+html {
+		/* Standard text-settings below */
+	font-size: 1em;
+    line-height: 1.4em;
+	color:#210049
+	
+}
+
+
+
+
+body {
+	
+	background:#582794
+}
+
+
+
+#container {
+	/*border: 1px solid black;*/
+	width:900px;
+	margin:auto;
+	position:relative;
+}
+
+h1{
+	position:fixed;
+	bottom:100px;
+	right:100px;
+	rotate: 90deg;
+}
+
+span.winnie {
+	color:white;
+	font-size:30em;
+	position:absolute;
+	top:300px;
+	left: -5px;
+	text-shadow: 90px 90px #7C11FE, 120px 120px #3D0A7C;
+	rotate: 45deg;
+	
+}
+
+span.period{
+	font-size:20em;
+	color: white;
+	position:relative;
+	left:80px;
+	top:40px;
+	opacity: 0.5;
+}
+
+span.guide{
+	color:#7C11FE;
+	font-size:30em;
+	position:relative;
+	top:350px;
+	left: -40px;
+	text-shadow: ;
+	opacity: 0.6;
+	
+}
+
+span.us{
+	color:#3D0A7C;
+	font-size:30em;
+	position:relative;
+	top:350px;
+	left: -40px;
+	text-shadow: ;
+	opacity: 0.5;
+	
+}
