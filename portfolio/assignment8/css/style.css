@@ -1,0 +1,57 @@
+/* Basic CSS resets -- leveling slight inconsistencies in browsers */
+html, body {
+	margin:0px;
+	padding:0px;
+	height:100%;
+}
+
+html {
+		/* Standard text-settings below */
+	font-size: 1em;
+    line-height: 1.4em;
+	color: white;
+}
+
+
+
+
+body {
+	background: #3D1778;
+	
+}
+
+
+tuesday {
+	background: magenta;
+	color: white;
+	font-size: 2em;
+	font-family: Impact, sans-serif;
+}
+
+
+#container {
+	
+}
+
+#special {
+	background: #8228D7;
+	color: white;
+	padding: 1em;
+}
+
+h1{
+	background:#28D788;
+	color:white;
+	font-size: 2em;
+	padding: 1em;
+	
+}
+
+h2 {
+	
+	background:#D72885;
+	color: white;
+	padding: 0.5em;
+	
+}
+
