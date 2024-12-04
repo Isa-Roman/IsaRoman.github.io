@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	
+	<meta charset="utf-8">
+	
+	<title>Insight</title>
+	
+	<link rel="stylesheet" href="style.css">	
+	
+</head>
+
+
+<body>
+
+  <div id="container">
+
+<header>
+	<h1>Why Not Join Us?</h1>
+	</header>
+
+	<main>
+	<button class="btn1">Memorial</button>
+<button class="btn2">Research</button>
+<button class="btn3">Our History</button>
+<button class="btn4">Merch</button>
+
+<section>
+<p>You can pay online to become a member with different tier rankings, bronze, silver, and gold. The more money you give makes you a higher-ranked member with different access levels and perks in the organization! All you need to sign up is to give us your name, email, phone number, address, Social Security Number, Credit Card details, and Blood Type! So sign up today and get our exclusive perks!</p>
+
+<p>Pay to become a member and in return, you’ll get certain perks and notifications letting you know when our next meeting is! We’re also working on creating our clothing brand so that future members can identify each other in public. As well as a mug that is 50% off to all members when they first join!</p>
+</section>
+
+<figure>
+		<img src="img/MerchAd.png" alt="Merch">
+	</figure>
+
+	<section>
+<p>Now that you know about our organization and our noble cause, we encourage you to join us in the fight to save our earth from these dragons! Become a member today to support us! Help raise money for our very expensive drill that we will use to get to the center of the earth.</p>
+</section>
+</main>
+
+<!-- Link to jQuery on Google CDN-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  
+
+<script>
+  $(document).ready(function() {
+
+$('p#special').hide();
+
+$('.btn1').click(function() {
+
+//$('p#special').show();
+$('p#special').slideToggle(2000);
+//$('p#special').fadeIn(1500);
+
+});//close click function
+
+$('h1').click(function() {
+//$('body').addClass('tuesday');
+$('body').toggleClass('tuesday');
+});//close click function for h1
+
+}); //close .ready()
+
+</script>
+
+<script>
+ $(document).ready(function() {
+ 
+$('p#pic').hide();
+
+$('.btn2').click(function() {
+
+//$('p#pic').show();
+$('p#pic').fadeIn(1000);
+//$('p#pic').fadeIn(2000);
+
+});//close click function
+
+}); //close .ready()
+</script>
+  
+<script>
+ $(document).ready(function() {
+ 
+$('p#Design').hide();
+
+$('.btn3').click(function() {
+
+//$('p#Design').show();
+$('p#Design').slideToggle(1000);
+//$('p#Design').fadeIn(2000);
+$('p#Design').fadeOut(5000);
+
+});//close click function
+
+}); //close .ready()
+</script>
+
+<script>
+ $(document).ready(function() {
+ 
+$('p#Design').hide();
+
+$('.btn4').click(function() {
+
+//$('p#Design').show();
+$('p#Design').slideToggle(1000);
+//$('p#Design').fadeIn(2000);
+$('p#Design').fadeOut(5000);
+
+});//close click function
+
+}); //close .ready()
+</script>
+
+<footer>
+		<p>&#169;Isabel Roman <span id="year"></span></p>
+		</footer>
+
+  </div><!-- close "container" -->
+  
+
+</body>
+	
+</html> 
